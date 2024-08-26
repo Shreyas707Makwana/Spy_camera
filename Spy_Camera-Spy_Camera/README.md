@@ -2,7 +2,7 @@
 
 ## Overview
 
-Spy Camera is a software project developed by a group of five individuals for a college assignment. It serves as a motion detection system utilizing a camera feed for security purposes. The application is capable of detecting movements within its field of view and triggering actions based on predefined settings.
+Spy Camera is a software project developed for Software Engneering course. It serves as a motion detection system utilizing a camera feed for security purposes. The application is capable of detecting movements within its field of view and triggering actions based on predefined settings.
 
 ## Features
 
@@ -38,14 +38,6 @@ Before running Spy Camera, ensure that you configure the following settings:
 3. Start monitoring the camera feed.
 4. When motion is detected, the system will trigger the configured actions.
 5. Review recorded footage or alerts as needed.
-
-## Team Members
-
-- Harshit Soni - 202211027
-- Hirpara Daivik - 202211028
-- Hridhyansh Sharma - 202211029
-- Shreyas Makwana - 202211046
-- Daksh Mehta - 202211049
 
 ---
 
